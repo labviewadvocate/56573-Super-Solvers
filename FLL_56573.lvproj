@@ -237,7 +237,6 @@
 			</Item>
 			<Item Name="Gyro Acc Dec Back Dis.vi" Type="VI" URL="../Gyro Acc Dec Back Dis.vi"/>
 			<Item Name="Gyro Acc Dec Fwd C1Stop.vi" Type="VI" URL="../Gyro Acc Dec Fwd C1Stop.vi"/>
-			<Item Name="Speed Control plus.vi" Type="VI" URL="../Speed Control plus.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
